@@ -1,0 +1,13 @@
+# Rust build artifacts
+/target/
+
+# Local backups
+*.bak
+*.baseline
+*.optimized
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+/SYSTEM_INFO.txt
