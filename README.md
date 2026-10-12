@@ -1,3 +1,4 @@
+
 # NIER — Neural Inference Engine in Rust
 
 A lightweight neural network inference engine built from scratch in Rust.
@@ -54,3 +55,7 @@ These measurements apply to the tested workloads on the development machine. The
 ## License
 
 No license has been specified. Reuse and redistribution permissions should not be assumed.
+
+# NIER
+A neural network inference engine built from scratch in Rust.
+
